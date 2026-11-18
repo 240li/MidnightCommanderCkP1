@@ -1,0 +1,7 @@
+C:\Users\olive\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\olive\Desktop\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\olive\Desktop\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\olive\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\olive\Desktop\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\olive\Desktop\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\olive\Desktop\Projekt\Projekt\obj\Debug\Projekt.pdb
